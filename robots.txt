@@ -1,0 +1,6 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://bao-feng.me/sitemap.xml
+Sitemap: https://bao-feng.me/baidusitemap.xml

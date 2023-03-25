@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://bao-feng.top/messageboard/index.html</loc>
+    <loc>http://bao-feng.top/posts/ChatGPTPoeticWorks/</loc>
     
-    <lastmod>2023-03-19</lastmod>
+    <lastmod>2023-03-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,16 +13,16 @@
   <url>
     <loc>http://bao-feng.top/posts/PoliticalKnowledgePointsInVolumeTwoOfGradeSeven/</loc>
     
-    <lastmod>2023-03-18</lastmod>
+    <lastmod>2023-03-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://bao-feng.top/posts/ChatGPTPoeticWorks/</loc>
+    <loc>http://bao-feng.top/messageboard/index.html</loc>
     
-    <lastmod>2023-03-12</lastmod>
+    <lastmod>2023-03-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,7 +76,7 @@
 
   <url>
     <loc>http://bao-feng.top/</loc>
-    <lastmod>2023-03-19</lastmod>
+    <lastmod>2023-03-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

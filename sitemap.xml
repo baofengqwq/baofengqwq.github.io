@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://bao-feng.top/notice/index.html</loc>
+    <loc>http://bao-feng.top/posts/Markdown/</loc>
     
     <lastmod>2023-04-05</lastmod>
     
@@ -11,9 +11,27 @@
   </url>
   
   <url>
-    <loc>http://bao-feng.top/posts/Markdown/</loc>
+    <loc>http://bao-feng.top/termsandconditions/index.html</loc>
     
-    <lastmod>2023-04-02</lastmod>
+    <lastmod>2023-04-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bao-feng.top/posts/HistoryknowledgePoints-V2G7/</loc>
+    
+    <lastmod>2023-04-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bao-feng.top/notice/index.html</loc>
+    
+    <lastmod>2023-04-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -41,24 +59,6 @@
     <loc>http://bao-feng.top/posts/PoliticsKnowledgePoints-V2G7/</loc>
     
     <lastmod>2023-03-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://bao-feng.top/posts/HistoryknowledgePoints-V2G7/</loc>
-    
-    <lastmod>2023-03-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://bao-feng.top/WebsiteTermsAndInstructions/index.html</loc>
-    
-    <lastmod>2023-03-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://bao-feng.top/posts/Markdown/</loc>
+    <loc>http://bao-feng.top/posts/studydata/</loc>
     
-    <lastmod>2023-04-05</lastmod>
+    <lastmod>2023-04-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,14 +13,32 @@
   <url>
     <loc>http://bao-feng.top/termsandconditions/index.html</loc>
     
-    <lastmod>2023-04-05</lastmod>
+    <lastmod>2023-04-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://bao-feng.top/posts/HistoryknowledgePoints-V2G7/</loc>
+    <loc>http://bao-feng.top/tags/index.html</loc>
+    
+    <lastmod>2023-04-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bao-feng.top/categories/index.html</loc>
+    
+    <lastmod>2023-04-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bao-feng.top/posts/Markdown/</loc>
     
     <lastmod>2023-04-05</lastmod>
     
@@ -56,36 +74,9 @@
   </url>
   
   <url>
-    <loc>http://bao-feng.top/posts/PoliticsKnowledgePoints-V2G7/</loc>
-    
-    <lastmod>2023-03-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://bao-feng.top/posts/ChatGPTPoeticWorks/</loc>
     
     <lastmod>2023-03-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://bao-feng.top/tags/index.html</loc>
-    
-    <lastmod>2023-03-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://bao-feng.top/categories/index.html</loc>
-    
-    <lastmod>2023-03-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -123,10 +114,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://bao-feng.top/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/</loc>
+    <lastmod>2023-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>http://bao-feng.top/categories/Markdown/</loc>
+    <lastmod>2023-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://bao-feng.top/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/</loc>
     <lastmod>2023-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

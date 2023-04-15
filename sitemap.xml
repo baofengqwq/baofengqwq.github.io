@@ -110,20 +110,6 @@
 
   
   <url>
-    <loc>http://bao-feng.top/tags/%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2023-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://bao-feng.top/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/</loc>
-    <lastmod>2023-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://bao-feng.top/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-04-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -137,7 +123,28 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://bao-feng.top/tags/%E6%9D%82%E8%B0%88/</loc>
+    <lastmod>2023-04-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://bao-feng.top/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/</loc>
+    <lastmod>2023-04-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://bao-feng.top/categories/Markdown/</loc>
+    <lastmod>2023-04-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>http://bao-feng.top/categories/%E6%9D%82%E8%B0%88/</loc>
@@ -148,13 +155,6 @@
   
   <url>
     <loc>http://bao-feng.top/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/</loc>
-    <lastmod>2023-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://bao-feng.top/categories/Markdown/</loc>
     <lastmod>2023-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

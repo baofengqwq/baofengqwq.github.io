@@ -4,14 +4,14 @@
   <url>
     <loc>http://bao-feng.top/posts/studydata/</loc>
     
-    <lastmod>2023-04-19</lastmod>
+    <lastmod>2023-05-07</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://bao-feng.top/posts/markdown/</loc>
+    <loc>http://bao-feng.top/posts/Markdown/</loc>
     
     <lastmod>2023-04-19</lastmod>
     
@@ -86,15 +86,6 @@
     <loc>http://bao-feng.top/about/index.html</loc>
     
     <lastmod>2023-04-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://bao-feng.top/posts/chatgpt/</loc>
-    
-    <lastmod>2023-03-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

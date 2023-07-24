@@ -83,15 +83,6 @@
   </url>
   
   <url>
-    <loc>http://blog.bao-feng.top/notice/index.html</loc>
-    
-    <lastmod>2023-04-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.bao-feng.top/about/index.html</loc>
     
     <lastmod>2023-04-01</lastmod>
@@ -103,7 +94,7 @@
 
   <url>
     <loc>http://blog.bao-feng.top/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -111,35 +102,35 @@
   
   <url>
     <loc>http://blog.bao-feng.top/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2023-07-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.bao-feng.top/tags/%E5%9B%BE%E5%BA%8A/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.bao-feng.top/tags/Markdown/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.bao-feng.top/tags/%E5%9B%BE%E5%BA%8A/</loc>
+    <lastmod>2023-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.bao-feng.top/tags/%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.bao-feng.top/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -147,29 +138,29 @@
 
   
   <url>
-    <loc>http://blog.bao-feng.top/categories/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <loc>http://blog.bao-feng.top/categories/Markdown/</loc>
+    <lastmod>2023-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.bao-feng.top/categories/Markdown/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <loc>http://blog.bao-feng.top/categories/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2023-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.bao-feng.top/categories/%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.bao-feng.top/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

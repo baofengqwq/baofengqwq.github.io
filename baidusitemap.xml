@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://blog.bao-feng.top/posts/imageshare/</loc>
+    <lastmod>2023-11-25</lastmod>
+  </url>
+  <url>
     <loc>http://blog.bao-feng.top/posts/pi-command/</loc>
     <lastmod>2023-08-21</lastmod>
   </url>

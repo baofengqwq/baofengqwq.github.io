@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>照片分享</title>
+      <link href="/posts/imageshare/"/>
+      <url>/posts/imageshare/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://image.bao-feng.top/s/DJI_20231028171836_0025_D.jpg" alt=""></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 分享 </tag>
+            
+            <tag> 图片 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>树莓派常用指令</title>
       <link href="/posts/pi-command/"/>
       <url>/posts/pi-command/</url>

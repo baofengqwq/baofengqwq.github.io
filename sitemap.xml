@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.bao-feng.top/posts/report-list/</loc>
+    <loc>http://blog.bao-feng.top/posts/test/</loc>
     
     <lastmod>2024-08-09</lastmod>
     
@@ -180,13 +180,6 @@
   
   <url>
     <loc>http://blog.bao-feng.top/tags/%E5%9B%BE%E5%BA%8A/</loc>
-    <lastmod>2024-08-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.bao-feng.top/tags/%E8%88%AA%E7%A9%BA%E5%99%A8%E4%BA%8B%E6%95%85%E6%8A%A5%E5%91%8A%E7%9B%AE%E5%BD%95/</loc>
     <lastmod>2024-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
